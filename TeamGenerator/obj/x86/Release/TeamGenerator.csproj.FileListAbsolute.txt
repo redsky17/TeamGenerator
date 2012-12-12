@@ -1,0 +1,5 @@
+C:\Users\Joseph\Downloads\NAEGTeamChooser\TeamGenerator\TeamGenerator\bin\Release\TeamGenerator.exe.config
+C:\Users\Joseph\Downloads\NAEGTeamChooser\TeamGenerator\TeamGenerator\bin\Release\TeamGenerator.exe
+C:\Users\Joseph\Downloads\NAEGTeamChooser\TeamGenerator\TeamGenerator\bin\Release\TeamGenerator.pdb
+C:\Users\Joseph\Downloads\NAEGTeamChooser\TeamGenerator\TeamGenerator\obj\x86\Release\TeamGenerator.exe
+C:\Users\Joseph\Downloads\NAEGTeamChooser\TeamGenerator\TeamGenerator\obj\x86\Release\TeamGenerator.pdb

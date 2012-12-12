@@ -1,0 +1,5 @@
+C:\Users\Joseph\Downloads\NAEGTeamChooser\NAEGTeamChooser\NAEGTeamChooser\bin\Release\NAEGTeamChooser.exe.config
+C:\Users\Joseph\Downloads\NAEGTeamChooser\NAEGTeamChooser\NAEGTeamChooser\bin\Release\NAEGTeamChooser.exe
+C:\Users\Joseph\Downloads\NAEGTeamChooser\NAEGTeamChooser\NAEGTeamChooser\bin\Release\NAEGTeamChooser.pdb
+C:\Users\Joseph\Downloads\NAEGTeamChooser\NAEGTeamChooser\NAEGTeamChooser\obj\x86\Release\NAEGTeamChooser.exe
+C:\Users\Joseph\Downloads\NAEGTeamChooser\NAEGTeamChooser\NAEGTeamChooser\obj\x86\Release\NAEGTeamChooser.pdb

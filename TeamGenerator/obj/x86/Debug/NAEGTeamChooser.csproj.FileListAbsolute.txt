@@ -1,0 +1,10 @@
+c:\users\jfd5096.arl.psu.edu\documents\visual studio 2010\Projects\NAEGTeamChooser\NAEGTeamChooser\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\jfd5096.arl.psu.edu\documents\visual studio 2010\Projects\NAEGTeamChooser\NAEGTeamChooser\bin\Debug\NAEGTeamChooser.exe
+c:\users\jfd5096.arl.psu.edu\documents\visual studio 2010\Projects\NAEGTeamChooser\NAEGTeamChooser\bin\Debug\NAEGTeamChooser.pdb
+c:\users\jfd5096.arl.psu.edu\documents\visual studio 2010\Projects\NAEGTeamChooser\NAEGTeamChooser\obj\x86\Debug\NAEGTeamChooser.exe
+c:\users\jfd5096.arl.psu.edu\documents\visual studio 2010\Projects\NAEGTeamChooser\NAEGTeamChooser\obj\x86\Debug\NAEGTeamChooser.pdb
+C:\Users\Joseph\Downloads\NAEGTeamChooser\NAEGTeamChooser\NAEGTeamChooser\obj\x86\Debug\NAEGTeamChooser.exe
+C:\Users\Joseph\Downloads\NAEGTeamChooser\NAEGTeamChooser\NAEGTeamChooser\obj\x86\Debug\NAEGTeamChooser.pdb
+C:\Users\Joseph\Downloads\NAEGTeamChooser\NAEGTeamChooser\NAEGTeamChooser\bin\Debug\NAEGTeamChooser.exe.config
+C:\Users\Joseph\Downloads\NAEGTeamChooser\NAEGTeamChooser\NAEGTeamChooser\bin\Debug\NAEGTeamChooser.exe
+C:\Users\Joseph\Downloads\NAEGTeamChooser\NAEGTeamChooser\NAEGTeamChooser\bin\Debug\NAEGTeamChooser.pdb
