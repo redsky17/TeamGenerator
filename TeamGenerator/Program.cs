@@ -88,10 +88,11 @@ namespace TeamGenerator
 
                         string teamsFile = string.Format("teams-{0}.txt", teamsize);
 
-                        using (FileStream oFStream = new FileStream(teamsFile, FileMode.OpenOrCreate, FileAccess.ReadWrite))
+                        using (FileStream oFStream = new FileStream(teamsFile, FileMode.Create, FileAccess.ReadWrite))
                         {
                             using (StreamWriter writer = new StreamWriter(oFStream))
                             {
+                                int lastIndex = 0;
                                 for (int i = 0; i < names.Count - (teamsize - 1); i += teamsize)
                                 {
                                     Team tempTeam = new Team();
@@ -103,10 +104,33 @@ namespace TeamGenerator
 
                                     tempTeam.teamName = string.Format("Team {0}", names[i]);
 #if DEBUG
-                                Console.WriteLine(tempTeam.ToString());                                
+                                    Console.WriteLine(tempTeam.ToString());                                
 #endif
 
                                     writer.WriteLine(tempTeam.ToString());
+
+                                    lastIndex = i;
+                                }
+
+                                Team lastTeam = new Team();
+
+                                for (int i = lastIndex + teamsize; i < names.Count; i++)
+                                {
+                                    
+                                    lastTeam.players.Add(names[i]);
+                                    
+
+                                    lastTeam.teamName = string.Format("Team {0}", names[lastIndex + teamsize]);
+
+                                }
+
+                                if (lastTeam.players.Count > 0)
+                                {
+#if DEBUG
+                                    Console.WriteLine(lastTeam.ToString());                                
+#endif
+
+                                    writer.WriteLine(lastTeam.ToString());
                                 }
 
 #if !DEBUG
