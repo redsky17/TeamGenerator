@@ -1,10 +1,24 @@
-Team ItsEvolution             :	             ItsEvolution,	                 BroCheez,
-Team CoolstorySteve           :	           CoolstorySteve,	                 smelvin0,
-Team Dhutes                   :	                   Dhutes,	                 GrooGrux,
-Team mvs1189                  :	                  mvs1189,	        FootballBatPlayer,
-Team rob_avs33                :	                rob_avs33,	                 tbone115,
-Team SonOfDenny               :	               SonOfDenny,	     wherethewhitewomenat,
-Team TrueMarc                 :	                 TrueMarc,	             black_rabbit,
-Team ThatLegend               :	               ThatLegend,	                  red_sky,
-Team spacemanspiff30          :	          spacemanspiff30,	                   bengtc,
-Team jgouge996                :	                jgouge996,	              Schott12521,
+Team SonOfDenny               :	               SonOfDenny,	                     cack,
+Team TrueMarc                 :	                 TrueMarc,	Renegade/FootBallBatPlayer,
+Team Wesman444/maestro_wes    :	    Wesman444/maestro_wes,	                 groogrux,
+Team coolstorysteve           :	           coolstorysteve,	      Skoinon2Nite/bengtc,
+Team ItsEvolution             :	             ItsEvolution,	                 amastele,
+Team nothingpersnal           :	           nothingpersnal,	                  mvs1189,
+Team DannyDeranged            :	            DannyDeranged,	              schott12521,
+Team smelvin0                 :	                 smelvin0,	                   dhutes,
+Team rock                     :	                     rock,	    black_rabbit/w00t9090,
+Team WhosIsChris              :	              WhosIsChris,	nicetryswonkey/wherethewhitewomenat,
+Team rob_avs33                :	                rob_avs33,	               ThatLegend,
+Team red_sky                  :	                  red_sky,	                   Se_bas,
+Team BroCheez                 :	                 BroCheez,	          spacemanspiff30,
+
+Team Matchups: 
+               Team SonOfDenny vs                  Team TrueMarc
+    Team Wesman444/maestro_wes vs            Team coolstorysteve
+             Team ItsEvolution vs            Team nothingpersnal
+            Team DannyDeranged vs                  Team smelvin0
+                     Team rock vs               Team WhosIsChris
+                Team rob_avs33 vs                   Team red_sky
+
+Teams starting with a bye: 
+Team BroCheez
